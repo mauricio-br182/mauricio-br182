@@ -1,9 +1,8 @@
-- 👋 Olá me chamo @mauricio-br182
-- 🇧🇷 Eu sou brasileiro e estou interessado em aprender sobre programação 
-- 🌱 Sempre busco aprender o as tecnologias mais novas...
-- 💞️ Também tenho um conhecimento muito bom sobre a base de tudo...
-- 📫 atualmente eu já tenho minha própria fonte de renda
-, mas estou aberto a propostas... 😁
+- 👋 Olá me chamo Mauricio 
+- Sou programador a pouco menos de 1 ano, estou buscando sempre melhorar minhas skills 
+- Tenho um bom conhecimento sobre a base...
+- � Atualmente estou me especializando em back-end pois ja me sinto bem confortavel na parte de front😁
+- eu Ja trabalho atualmente porem gostaria de migrar para trabalhos envolvendo programação...
 
 <!---
 mauricio-br182/mauricio-br182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
