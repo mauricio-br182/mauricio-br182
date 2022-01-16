@@ -1,8 +1,10 @@
 - 👋 Olá me chamo Mauricio 
-- Sou programador a pouco menos de 1 ano, estou buscando sempre melhorar minhas skills 
-- Tenho um bom conhecimento sobre a base...
-- � Atualmente estou me especializando em back-end pois ja me sinto bem confortavel na parte de front😁
-- eu Ja trabalho atualmente porem gostaria de migrar para trabalhos envolvendo programação...
+- 
+- busquei me aperfeiçoar para me tornar um programador Fullstack, criar sites web , aplicativos MOBILE e etc.
+- Tenho Experiencias em varios projetos proprios, Um app de Finanças para barbearia usando JavaScript e React-Native
+- criei conversores de moedas, conversor de dolar em moedas estrangeiras, e tambem outro que converte Real para dolar.
+- site para captação de clientes para uma barbearia em HTML, CSS
+- Entre outros...
 
 <!---
 mauricio-br182/mauricio-br182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
